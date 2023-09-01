@@ -36,7 +36,7 @@
   "dependencies": {
     "bip32": "git+https://github.com/Jenova7/bip32.git",
     "bip39": "^3.0.4",
-    "bitcoinjs-lib": "git+https://github.com/ElectraProtocol/bitcoinjs-lib.git",
+    "bitcoinjs-lib": "git+https://github.com/Jenova7/bitcoinjs-lib.git",
     "bs58check": "^2.1.1",
     "create-hmac": "^1.1.7",
     "ecpair": "^2.0.1",
